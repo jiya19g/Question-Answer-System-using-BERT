@@ -72,11 +72,11 @@ The project requires the following Python libraries, as listed in [requirements.
 
 ## Screenshots
 
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
+### Input section
+![Home Page](screenshots\input.png)
 
-### Results Page
-![Results Page](https://via.placeholder.com/800x400?text=Results+Page)
+### Results section
+![Results Page](screenshots\output.png)
 
 ## License
 
