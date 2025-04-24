@@ -4,3 +4,4 @@ transformers
 python-dotenv
 sentence-transformers
 numpy
+protobuf
