@@ -1,0 +1,6 @@
+flask
+torch
+transformers
+python-dotenv
+sentence-transformers
+numpy
