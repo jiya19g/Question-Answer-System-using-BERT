@@ -12,7 +12,7 @@ This project is a web-based Question Answering (QA) system powered by the BERT m
 
 ## Project Structure
 
-
+```
 .
 ├── app.py                 # Main Flask application
 ├── requirements.txt       # Python dependencies
@@ -21,7 +21,7 @@ This project is a web-based Question Answering (QA) system powered by the BERT m
 ├── templates/
 │   └── index.html         # HTML template for the web interface
 └── README.md              # Project documentation
-
+```
 
 ## Installation
 
@@ -72,11 +72,11 @@ The project requires the following Python libraries, as listed in [requirements.
 
 ## Screenshots
 
-### Input section
-![Home Page](screenshots\input.png)
+### Input section  
+![Home Page](screenshots/input.png)
 
-### Results section
-![Results Page](screenshots\output.png)
+### Results section  
+![Results Page](screenshots/output.png)
 
 ## License
 
