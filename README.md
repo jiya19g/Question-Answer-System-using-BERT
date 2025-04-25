@@ -26,25 +26,25 @@ This project is a web-based Question Answering (QA) system powered by the BERT m
 ## Installation
 
 1. Clone the repository:
-   bash
+   ```
    git clone https://github.com/jiya19g/Question-Answer-System-using-BERT.git
    cd Question-Answer-System-using-BERT   
 
 2. Create a virtual environment and activate it:
-   bash
+   ```
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    
 
 3. Install the required dependencies:
-   bash
+   ```
    pip install -r requirements.txt
    
 
 ## Usage
 
 1. Run the Flask application:
-   bash
+   ```
    python app.py
    
 
